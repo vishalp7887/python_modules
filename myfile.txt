@@ -1,0 +1,8 @@
+hello, how are you?
+
+hello
+
+newline
+hello
+line
+ok
